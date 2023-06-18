@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aee573c-9fff-433c-b092-92629f1ab752" name="Changes" comment="Array-largest element in an array">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SecondLargestElementInAnArray_NotSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LargestElementInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LargestElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesSorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SecondLargestElementInAnArray_NotSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SecondLargestElementInAnArray_NotSorted.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +41,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SecondLargestElementInAnArray_NotSorted">
+  <component name="RunManager" selected="Application.RemoveDuplicatesSorted">
     <configuration name="LargestElementInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LargestElementInAnArray" />
+      <module name="ArrayProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveDuplicatesSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RemoveDuplicatesSorted" />
       <module name="ArrayProblems" />
       <extension name="coverage">
         <pattern>
@@ -69,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveDuplicatesSorted" />
         <item itemvalue="Application.SecondLargestElementInAnArray_NotSorted" />
         <item itemvalue="Application.LargestElementInAnArray" />
       </list>
