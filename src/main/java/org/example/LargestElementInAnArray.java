@@ -1,7 +1,7 @@
 package org.example;
 
 public class LargestElementInAnArray {
-
+// o(n) time complexity
     public static void main(String[] args) {
         int arr[]={3,2,-1,5,2,-9};
         System.out.println("Largest element in the array: "+largest(arr));
