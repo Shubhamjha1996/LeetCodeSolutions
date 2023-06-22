@@ -2,7 +2,7 @@ package org.example;
 //time complexity in O(n).
 public class RemoveDuplicatesSorted {
     public static void main(String[] args) {
-       int arr[]={1,1,2,2,3,3,4,5,5,6,6};
+       int arr[]={1,7,8,2,2,3,3,4,5,5,6,6};
         int rd=duplicate(arr);
 
         for(int i=0;i<rd;i++){
